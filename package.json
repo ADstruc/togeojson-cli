@@ -1,5 +1,5 @@
 {
-  "name": "@tmcw/togeojson-cli",
+  "name": "@ADstruc/togeojson-cli",
   "version": "1.0.3",
   "description": "Convert KML and GPX to GeoJSON on the CLI",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "togeojson": "index.js"
   },
   "dependencies": {
-    "@tmcw/togeojson": "^3.0.0",
+    "@ADstruc/togeojson": "https://github.com/ADstruc/togeojson#adstruc",
     "minimist": "^1.2.0",
     "standard-version": "^5.0.1",
     "xmldom": "^0.1.27"
