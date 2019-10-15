@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const tj = require("@tmcw/togeojson");
+const tj = require("@ADstruc/togeojson-cli");
 const argv = require("minimist")(process.argv.slice(2));
 const fs = require("fs");
 const { DOMParser } = require("xmldom");
